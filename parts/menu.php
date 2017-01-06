@@ -1,9 +1,9 @@
 <div class="menu">
 	<menu>
 		<ul>
-			<li><a href="">Accueil</a></li>
-			<li><a href="">Bio</a></li>
-			<li><a href="">Contact</a></li>
+			<li><a href="index.php">Accueil</a></li>
+			<li><a href="index.php?page=bio">Bio</a></li>
+			<li><a href="index.php?page=contact">Contact</a></li>
 		</ul>
 	</menu>
 </div>

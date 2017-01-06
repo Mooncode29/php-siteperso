@@ -1,5 +1,5 @@
 <footer>
-	<div>c Irène RAVELONARIVO | credits</div>
+	<div class="footer">c Irène RAVELONARIVO | credits</div>
 </footer>
 </body>
 <script src="app.js"></script>
