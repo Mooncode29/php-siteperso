@@ -1,1 +1,1 @@
-<p>Me contacter : tartanpion@email.com</p>
+<p>Me contacter : jane.doe@email.com</p>

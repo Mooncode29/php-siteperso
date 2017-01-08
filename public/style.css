@@ -6,7 +6,7 @@
 }
 
 html {
-	font-size:62.5%;
+	font-size:100%;
 }
 
 .menu {
@@ -14,13 +14,13 @@ html {
 	height: 7em;
 	background: #a6172d;
 }
-li, a {
+.menu li {
 	display:inline-block;
 	padding-bottom: 1em;
 	padding-top: 1em;
-	padding-right: 3em;
-	padding-left: 3em;
-	font-size: 1.5em;
+	padding-right: 1.5em;
+	padding-left: 2em;
+	font-size: 1em;
 	list-style: none;
 	color: white;
 	text-align: center;
